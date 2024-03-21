@@ -1,1 +1,1 @@
-Completing CTFs and writing a Security Report about them.
+Working in teams to find CTFs and writing a group Security Report about them.
